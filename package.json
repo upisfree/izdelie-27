@@ -21,7 +21,7 @@
   "homepage": "https://github.com/upisfree/izdelie-27#readme",
   "devDependencies": {
     "awesome-typescript-loader": "^5.2.1",
-    "http-server": "^0.11.1",
+    "http-server": "^0.11.2",
     "typescript": "^3.5.2",
     "webpack": "^4.35.2",
     "webpack-cli": "^3.3.5"
